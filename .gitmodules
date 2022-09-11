@@ -1,3 +1,6 @@
 [submodule "lib/X68k-kicad-library"]
 	path = lib/X68k-kicad-library
 	url = https://github.com/kunichiko/X68k-kicad-library.git
+[submodule "lib/kicad-gigalib"]
+	path = lib/kicad-gigalib
+	url = https://github.com/metacollin/kicad-gigalib.git
